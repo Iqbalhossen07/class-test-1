@@ -14,3 +14,22 @@
 .card-section:hover {
     box-shadow: 2px 2px 8px #b0d0f7; 
 }
+
+
+.pricing-area{
+    box-shadow: 2px 2px 8px #aaaaaa;
+}
+
+
+.pricing-area:hover{
+    box-shadow: 2px 2px 8px #b0d0f7;
+}
+
+
+.team-area{
+    box-shadow: 2px 2px 8px #aaaaaa; 
+}
+
+.team-area:hover{
+    box-shadow: 2px 2px 8px #b0d0f7;
+}
