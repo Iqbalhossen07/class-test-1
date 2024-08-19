@@ -1,0 +1,16 @@
+.custom-navbar {
+    box-shadow: 2px 2px 8px #c2c2c2;
+}
+
+.card-p{
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.card-section {
+    box-shadow: 2px 2px 8px #aaaaaa; 
+}
+
+.card-section:hover {
+    box-shadow: 2px 2px 8px #b0d0f7; 
+}
