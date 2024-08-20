@@ -3,6 +3,22 @@
 
 .custom-navbar {
     box-shadow: 2px 2px 8px #c2c2c2;
+   
+}
+
+.hero-btn{
+    background-color: #2F80ED;
+    color: white;
+    box-shadow: 1px 1px 8px #2F80ED;
+    border: none;
+    border-radius: 50px;
+}
+
+.hero-btn:hover{
+    background-color: #5c9bec;
+    color: white;
+    box-shadow: 1px 1px 8px #2F80ED;
+    border: none;
 }
 
 .card-p{
